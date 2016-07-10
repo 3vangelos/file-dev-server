@@ -1,0 +1,24 @@
+{
+  "name": "adventapp-file-server",
+  "version": "1.0.0",
+  "description": "simple file server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3vangelos/file-dev-server.git"
+  },
+  "author": "3vangelos",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/3vangelos/file-dev-server/issues"
+  },
+  "homepage": "https://github.com/3vangelos/file-dev-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
